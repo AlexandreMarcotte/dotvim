@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/home/alex/Documents/CODING/2018/Python-Genetic-Cars-Box2D'
+let g:netrw_dirhist_2='/home/alex/.vim'
